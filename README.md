@@ -1,4 +1,4 @@
-<h1>Webpage designd with Bootstrap</h1>
+<h1>Webpage designed with Bootstrap</h1>
 
 <h3>This site was made by using only HTML, CSS and <a href="https://www.bootstrapcdn.com/"><b>BOOTSTRAP</b> </a>.</h3>
 
