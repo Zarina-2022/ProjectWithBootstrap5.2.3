@@ -9,8 +9,6 @@
 
 ![](Bootstrap.gif)
 
-<h3> I will continue to renew this project as I develop my CSS, HTML and Java Script.  </h3>
-
 <h2> How to install and run the project. </h2>
 
 ![](Bootstrap-dl.gif)
